@@ -24,15 +24,15 @@ Once the correct number is guessed, the game congratulates the user and displays
 **Installation and Setup**
 **- Clone the repository:**
     bash :
-    git clone https://github.com/supritkumar007/number-guesser-game.git
+    git clone https://github.com/supritkumar007/number-guessing-game.git
     
 **- Navigate to the project directory:**
     bash :
-      cd number-guesser-game
+      cd number-guessing-game
       
 **- Compile the program:**
     bash :
-      gcc number_guesser_game.c -o number_guesser_game
+      gcc number_guessing_game.c -o number_guessing_game
       
 **- Run the program:**
     bash :
